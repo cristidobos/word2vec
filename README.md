@@ -4,7 +4,7 @@ Skip-gram with Negative Sampling implemented in pure NumPy.
 
 ## Overview
 
-This is an implementation of the word2vec Skip-gram model with negative sampling, following Mikolov et al. (2013). The goal was to implement everything from first principles.
+This is an implementation of the word2vec Skip-gram model with negative sampling, following Mikolov et al. (2013). 
 
 Trained on the [text8](http://mattmahoney.net/dc/text8.zip) corpus (~17M tokens derived from Wikipedia).
 
